@@ -135,6 +135,7 @@
 .projeto {
     border: 1px solid #ccc;
     font-family: Andale Mono, monospace;
-    padding: 20px;
+    font-size: 30px;
+    padding: 20p0x;
     margin-bottom: 20px;
 }
