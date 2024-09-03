@@ -135,7 +135,10 @@
 .projeto {
     border: 1px solid #ccc;
     font-family: Andale Mono, monospace;
-    font-size: 30px;
-    padding: 20p0x;
+    padding: 20px;
     margin-bottom: 20px;
+}
+
+.link{
+    margin-top: 15px;
 }
