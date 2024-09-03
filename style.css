@@ -131,3 +131,10 @@
     font-weight: bold;
     font-size: 20px;
 }
+
+.projeto {
+    border: 1px solid #ccc;
+    font-family: Andale Mono, monospace;
+    padding: 20px;
+    margin-bottom: 20px;
+}
